@@ -1,0 +1,8 @@
+.vscode
+config.py
+config
+/env
+env
+db.aqlite3
+db.sqlite3
+__pycache__/
